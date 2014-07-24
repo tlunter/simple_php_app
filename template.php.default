@@ -1,0 +1,16 @@
+<?php
+
+include("includes/database.php");
+
+// All database stuff should go here!
+
+include("includes/header.php");
+
+// All HTML should go between here-ish
+?>
+
+<?php
+
+include("includes/footer.php");
+
+?>
